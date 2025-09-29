@@ -4,8 +4,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NBHZW&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![个人博客]([https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zealsinger.xyz/)
-[![CSDN](https://blog.csdn.net/Amax3747?type=blog)
+[![个人博客](https://img.shields.io/badge/个人博客-blue)](https://www.zealsinger.xyz/)
+[![CSDN](https://img.shields.io/badge/CSDN-red)](https://blog.csdn.net/Amax3747?type=blog)
 
 ![](https://img.shields.io/badge/喜欢-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
@@ -17,4 +17,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/NBHZW/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ZealSinger.
