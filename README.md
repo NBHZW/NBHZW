@@ -13,7 +13,9 @@
 
 </div>
 
+<div align="center">
 ![头像](https://avatars.githubusercontent.com/u/109969981?v=4)
+</div>
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ZealSinger.
