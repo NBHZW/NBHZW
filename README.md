@@ -13,9 +13,10 @@
 
 </div>
 
+<!-- 优化头像居中与渲染：添加宽度控制，确保跨平台显示一致 -->
 <div align="center">
-![头像](https://avatars.githubusercontent.com/u/109969981?v=4)
+  <img src="https://avatars.githubusercontent.com/u/109969981?v=4" alt="头像" width="200" style="border-radius: 50%;" />
 </div>
 
-
+<!-- 动态打字效果链接（原配置不变，确保加载正常） -->
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=ZealSinger.
